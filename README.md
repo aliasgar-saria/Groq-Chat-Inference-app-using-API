@@ -40,7 +40,8 @@ You'll need:
 1. **First, Grab the Code**
 ```bash
 git clone https://github.com/aliasgar-saria/Groq-Chat-Inference-app-using-API
-cd Groq-Chat-Inference-app-using-API```
+cd Groq-Chat-Inference-app-using-API
+```
 
 2. **Create Your Space**
 ```bash
